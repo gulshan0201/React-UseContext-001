@@ -1,0 +1,30 @@
+.dark{
+  background-color: black;
+  color: white;
+}
+
+.light{
+  background-color: #ffff;
+  color: black;
+}
+
+.home{
+  height: 100vh;
+}
+
+.nav-bar{
+  display: flex;
+  justify-content: space-around;
+  padding-top: 2rem;
+  align-items: center;
+}
+
+.btn{
+  width: 10rem;
+  height: 2rem;
+}
+
+.link{
+  display: flex;
+  padding-right: 29px;
+}
